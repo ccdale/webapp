@@ -6,24 +6,24 @@
  * base.class.php
  *
  * Started: Friday 24 May 2013, 23:41:08
- * Last Modified: Sunday 16 April 2017, 10:11:50
+ * Last Modified: Sunday 16 April 2017, 10:45:39
  *
- * Copyright (c) 2016 Chris Allison chris.charles.allison+vh@gmail.com
+ * Copyright (c) 2016 Chris Allison chris.charles.allison+webapp@gmail.com
  *
- * This file is part of villagehall.
+ * This file is part of webapp.
  * 
- * villagehall is free software: you can redistribute it and/or modify
+ * webapp is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  * 
- * villagehall is distributed in the hope that it will be useful,
+ * webapp is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  * 
  * You should have received a copy of the GNU General Public License
- * along with villagehall.  If not, see <http://www.gnu.org/licenses/>.
+ * along with webapp.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 class Base
